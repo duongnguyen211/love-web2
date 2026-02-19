@@ -1,23 +1,23 @@
 import { Heart, Star, Music, Camera, Book } from 'lucide-react';
 
 //import images to timeline
-import firstmess from "F:/LoveWeb/src/assets/images/firstmess.jpg";
-import firstdate from "F:/LoveWeb/src/assets/images/firstdate.png";
-import firstpic from "F:/LoveWeb/src/assets/images/firstpic.jpg";
-import offical from "F:/LoveWeb/src/assets/images/offical.jpg";
-import firstphotobooth from "F:/LoveWeb/src/assets/images/firstphotobooth.jpg";
-import onemonth from "F:/LoveWeb/src/assets/images/1month.jpg";
-import firsttrip from "F:/LoveWeb/src/assets/images/firsttrip.jpg";
-import camcon from "F:/LoveWeb/src/assets/images/camcon.jpg";
-import totnghiep from "F:/LoveWeb/src/assets/images/totnghiep.jpg";
-import hamlon from "F:/LoveWeb/src/assets/images/hamlon.jpg";
-import birthday from "F:/LoveWeb/src/assets/images/25.jpg";
-import tuyenquang from "F:/LoveWeb/src/assets/images/tuyenquang.jpg";
-import valentine from "F:/LoveWeb/src/assets/images/valentine.jpg";
-import tet from "F:/LoveWeb/src/assets/images/tet.jpg";
-import noel from "F:/LoveWeb/src/assets/images/noel.jpg";
-import ourlovestory from "F:/LoveWeb/src/assets/images/ourlovestory.png";
-import firstalbum from "F:/LoveWeb/src/assets/images/firstalbum.jpg";
+import firstmess from "../assets/images/firstmess.jpg";
+import firstdate from "../assets/images/firstdate.png";
+import firstpic from "../assets/images/firstpic.jpg";
+import offical from "../assets/images/offical.jpg";
+import firstphotobooth from "../assets/images/firstphotobooth.jpg";
+import onemonth from "../assets/images/1month.jpg";
+import firsttrip from "../assets/images/firsttrip.jpg";
+import camcon from "../assets/images/camcon.jpg";
+import totnghiep from "../assets/images/totnghiep.jpg";
+import hamlon from "../assets/images/hamlon.jpg";
+import birthday from "../assets/images/25.jpg";
+import tuyenquang from "../assets/images/tuyenquang.jpg";
+import valentine from "../assets/images/valentine.jpg";
+import tet from "../assets/images/tet.jpg";
+import noel from "../assets/images/noel.jpg";
+import ourlovestory from "../assets/images/ourlovestory.png";
+import firstalbum from "../assets/images/firstalbum.jpg";
 
 //import images to gallery
 
